@@ -16,7 +16,7 @@ hyperlink==19.0.0
 idna==2.10
 incremental==17.5.0
 msgpack==1.0.0
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 psycopg2==2.8.5
 pyasn1==0.4.8
